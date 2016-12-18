@@ -1,0 +1,19 @@
+{
+  "name": "text-js",
+  "version": "0.0.1-BETA",
+  "description": "A simple text editor using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipewmartins/text-js.git"
+  },
+  "author": "felipewmartins",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/felipewmartins/text-js/issues"
+  },
+  "homepage": "https://github.com/felipewmartins/text-js#readme"
+}
