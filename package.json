@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/felipewmartins/text-js/issues"
   },
-  "homepage": "https://github.com/felipewmartins/text-js#readme"
+  "homepage": "https://github.com/felipewmartins/text-js#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
